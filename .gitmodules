@@ -4,6 +4,3 @@
 [submodule "src/m0dular"]
 	path = modules/m0dular
 	url = https://github.com/LWSS/m0dular
-[submodule "modules/peeper"]
-	path = modules/peeper
-	url = https://github.com/LWSS/peeper
